@@ -2,7 +2,7 @@
 title: Campus Recycling and Refuse Services
 email: recycle@berkeley.edu
 description: "At Campus Recycling and Refuse Services (CRRS) we are working to achieve Zero Waste."
-baseurl: crrs # the subpath of your site, e.g. /blog/
+baseurl: /crrs/ # the subpath of your site, e.g. /blog/
 url: "http://recycle.berkeley.edu" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  rachelelle
